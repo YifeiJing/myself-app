@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/myself-app/static/css/main.073c9b0a.css",
-    "main.js": "/myself-app/static/js/main.da53eb64.js",
+    "main.css": "/myself-app/static/css/main.eec24254.css",
+    "main.js": "/myself-app/static/js/main.e3465a6d.js",
     "static/js/787.021af319.chunk.js": "/myself-app/static/js/787.021af319.chunk.js",
-    "static/media/logo.svg": "/myself-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myself-app/index.html",
-    "main.073c9b0a.css.map": "/myself-app/static/css/main.073c9b0a.css.map",
-    "main.da53eb64.js.map": "/myself-app/static/js/main.da53eb64.js.map",
+    "main.eec24254.css.map": "/myself-app/static/css/main.eec24254.css.map",
+    "main.e3465a6d.js.map": "/myself-app/static/js/main.e3465a6d.js.map",
     "787.021af319.chunk.js.map": "/myself-app/static/js/787.021af319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.da53eb64.js"
+    "static/css/main.eec24254.css",
+    "static/js/main.e3465a6d.js"
   ]
 }
